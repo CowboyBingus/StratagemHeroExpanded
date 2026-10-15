@@ -1,0 +1,17 @@
+Stratagem Hero Expanded v1.0
+Supports Helldivers 2 Steam build 25480438 / EXE 1.8.46015.0.
+
+Install Bingus Shared Loader v18 or newer and import this ZIP into Arsenal or
+HD2MM. Enable and deploy both, then restart Helldivers 2.
+
+What it changes: the Stratagem Hero arcade on your Super Destroyer draws from
+every loadout stratagem and 12 common mission stratagems (108) instead of 27.
+Themed rounds stay; the other rounds give every stratagem the same odds. Two
+tables are written once per game session; nothing runs per frame.
+
+On any other game build it does nothing and says so in the log:
+%LOCALAPPDATA%/CowboyBingus/Helldivers2/Logs/StratagemHeroExpanded.log
+
+To remove it, disable or remove it in the mod manager.
+
+https://github.com/CowboyBingus/BingusSharedLoader/releases/latest
